@@ -1,15 +1,34 @@
 HERO QUEST
 
-Hero Quest is classic 2d rpg game. It consists of multiple hero classes to choose from and every class has specific skills and attacks. Also every class has its own advantages and disadvantages so the game is balanced. It is single player game, player can move throuh multiple maps, use skills, but also he has to pay attention to energy and health which are crucial in game. There is also ranking system to make game more competitive, and we can see top players by points in leaderboards.
+Hero Quest
+Hero Quest is a classic 2D RPG game developed in Python using the PyGame library.
 
+The game offers multiple hero classes, each with their own unique skills, attacks, advantages, and disadvantages—ensuring a balanced and engaging experience.
 
-The technologies used for the project are:
-      -      Python 
-      -      PyGame - python library for developing 2d games
-      -      MySql 
+🎮 Gameplay
+Single-player RPG experience
 
+Multiple hero classes to choose from
+
+Explore multiple maps
+
+Use a variety of skills
+
+Manage crucial resources like energy and health
+
+Competitive ranking system
+
+View top players in the leaderboards
+
+🛠️ Technologies Used
+Python
+
+PyGame – Python library for 2D game development
+
+MySQL – Used for storing player data and rankings
 
 FLOWCHART
+-----------------------------------------------------
 <img width="634" height="406" alt="Screenshot_28" src="https://github.com/user-attachments/assets/db912692-bef0-416c-b7d2-1fbb8e4ec68d" />
 
 SCREENSHOTS FROM GAME(If you want to know more about screenshots and game in general you can check documentation)
